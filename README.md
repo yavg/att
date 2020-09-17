@@ -9,3 +9,5 @@
 20200812|+35.05|+52.21| 户主line fee结算
 20200817|N/A|N/A|充ATT Gift卡$250到帐户
 20200817|+355|+407.21|CHEN, JIANGZHI sent you $355.00
+20200912|-40.67|+366.54|A charge of ($USD) 40.67 at AT&T*BILL PAYMENT has been authorized
+20200917|N/A|N/A|充ATT Gift卡$250到帐户
