@@ -11,10 +11,11 @@
 20200817|+355|CHEN, JIANGZHI sent you $355.00
 20200912|-40.67|A charge of ($USD) 40.67 at AT&T*BILL PAYMENT has been authorized
 20200917|N/A|充ATT Gift卡$250到帐户
+20201012|-13|A charge of ($USD) 13.00 at ATT*BILL PAYMENT has been authorized
 20201014|+380|DFORT SERIES LLC sent you $380.00
 20201018|N/A|激活ATT Gift卡5421 $250 无法充到帐上"because account doesn't have a balance due."
 20201112|-209.13|A charge of ($USD) 209.13 at ATT*BILL PAYMENT has been authorized
 20201120|+680|DFORT SERIES LLC sent you $680.00
 20201212|-275.81|A charge of ($USD) 275.81 at ATT*BILL PAYMENT has been authorized
-20200114|-280.13|A charge of ($USD) 280.13 at ATT*BILL PAYMENT has been authorized
+20210114|-280.13|A charge of ($USD) 280.13 at ATT*BILL PAYMENT has been authorized
 20210210|+960|DFORT SERIES LLC sent you $960.00
