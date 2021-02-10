@@ -16,3 +16,5 @@
 20201112|-209.13|A charge of ($USD) 209.13 at ATT*BILL PAYMENT has been authorized
 20201120|+680|DFORT SERIES LLC sent you $680.00
 20201212|-275.81|A charge of ($USD) 275.81 at ATT*BILL PAYMENT has been authorized
+20200114|-280.13|A charge of ($USD) 280.13 at ATT*BILL PAYMENT has been authorized
+20210210|+960|DFORT SERIES LLC sent you $960.00
